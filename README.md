@@ -1,18 +1,18 @@
 # A list of examples and applications using the bitcoindevkit in the wild
 
-# Rust
+## Rust
 [GuN Wallet](https://github.com/GoUpNumber/gun)
 
-# Kotlin (Server-Side + Desktop)
-[Tatooine](https://github.com/thunderbiscuit/tatooine)
-[BDK-PoS]()
+## Kotlin (Server-Side + Desktop)
+[Tatooine](https://github.com/thunderbiscuit/tatooine)  
+[BDK-PoS](https://github.com/thunderbiscuit/bdk-desktop-pos)
 
-# Kotlin (Android)
-[Devkit Wallet](https://github.com/thunderbiscuit/devkit-wallet)
+## Kotlin (Android)
+[Devkit Wallet](https://github.com/thunderbiscuit/devkit-wallet)  
 [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet)
 
-# Swift
+## Swift
 [BDK Swift Sample](https://github.com/futurepaul/BdkSwiftSample)
 
-# Python
+## Python
 [Code sample](https://pypi.org/project/bdkpython/)
